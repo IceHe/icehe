@@ -15,6 +15,7 @@
 
 - [Homepage](https://icehe.life/#/): Technology Blog on **icehe.life** ([repo](https://github.com/IceHe/lib))
 - [Weibo](https://weibo.com/icedes): Daily Life Records **@\_IceHe\_**
+- Recent work: [鸣潮数据实验室 wuwa.icehe.life](https://wuwa.icehe.life/)
 
 <!-- > Later equals never. -->
 
