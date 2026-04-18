@@ -15,7 +15,7 @@
 
 - [Homepage](https://icehe.life/#/): Technology Blog on **icehe.life** ([repo](https://github.com/IceHe/lib))
 - [Weibo](https://weibo.com/icedes): Daily Life Records **@\_IceHe\_**
-- Recent work:
+- Recent works:
     - [鸣潮数据实验室 wuwa.icehe.life](https://wuwa.icehe.life/)
     - [鸣潮社区人格测试 wwti.icehe.life](https://wwti.icehe.life/)
     - [鸣潮声骸统计工具 echo.icehe.life](https://echo.icehe.life/) 
